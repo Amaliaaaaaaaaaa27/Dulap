@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dulap", "Dulap\Dulap.csproj", "{E34F645C-6503-41B4-ADD8-47A1B2402AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E34F645C-6503-41B4-ADD8-47A1B2402AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E34F645C-6503-41B4-ADD8-47A1B2402AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E34F645C-6503-41B4-ADD8-47A1B2402AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E34F645C-6503-41B4-ADD8-47A1B2402AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C3FD496-EA31-4FF7-B176-D7A1B937EB50}
+	EndGlobalSection
+EndGlobal
